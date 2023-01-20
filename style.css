@@ -737,6 +737,14 @@ p {
     display: flex;
     justify-content: space-around;
 }
+.banniere {
+    width: 217px;
+    height: 40px;
+}
+.image_carre {
+    width: 270px;
+    height: 270px;
+}
 .cta-hero {
     margin-top: 22px;
     color: #FFFFFF !important;
