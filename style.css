@@ -730,7 +730,13 @@ p {
     font-size: 1.25em;
     font-family: "Open Sans"
 }
-
+.tailleresponsive {
+    width: 100%;
+}
+.flex_icone {
+    display: flex;
+    justify-content: space-around;
+}
 .cta-hero {
     margin-top: 22px;
     color: #FFFFFF !important;
