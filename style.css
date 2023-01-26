@@ -481,6 +481,9 @@ h1,h3,h4 {
 p {
     font-size:0.95em
 }
+.mots_clefs {
+    color: #fff;
+}
 .tight-width-whitespace {
     max-width:600px;
     margin:auto
@@ -594,9 +597,9 @@ h3 {
         padding-left:0;
         padding-right:0
     }
-    .tailleresponsive {
+    /* .tailleresponsive {
         width:80%
-    }
+    } */
 }
 @media (max-width:992px) and (min-width:768px) {
     .navbar .nav {
